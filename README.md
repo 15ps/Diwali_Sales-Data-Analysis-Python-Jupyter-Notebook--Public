@@ -3,6 +3,7 @@ This project presents an in-depth analysis of Diwali sales data to uncover custo
 
 📂 Tools & Resources
 Platform: Jupyter Notebook
+
 Libraries Used:pandas for data cleaning and analysis,matplotlib & seaborn for data visualization,numpy for basic numerical operations
 
 📊 Key Insights
